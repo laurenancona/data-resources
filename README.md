@@ -5,7 +5,7 @@ Tracking the tools I've found useful
 * http://joshualande.com/database-normalization/
 
 **Javascript Libraries**
-* http://mustache.github.io/mustache.5.html
+* [Mustache.js](http://mustache.github.io/mustache.5.html) Logic-less templating library
 
 **Learning R**
 * http://handsondatascience.com/DataO.pdf
