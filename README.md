@@ -6,7 +6,7 @@ Tracking the tools I've found useful
 
 **Javascript Libraries**
 * [Mustache.js](http://mustache.github.io/mustache.5.html) Logic-less templating library
-* [Simple Statistics.js](http://www.macwright.org/simple-statistics/)
+* [Simple Statistics.js](http://www.macwright.org/simple-statistics/)  for JavaScript in Node & the browser
 
 **Learning R**
 * http://handsondatascience.com/DataO.pdf
