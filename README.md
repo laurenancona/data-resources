@@ -13,6 +13,7 @@ Tracking the tools I've found useful
 * https://github.com/startupjing/Tech_Notes/blob/master/R/README.md
 * http://www.computerworld.com/article/2497143/business-intelligence-beginner-s-guide-to-r-introduction.html?null
 * http://swirlstats.com/
+* [Introduction to dplyr](http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
 
 **Google Analytics in R**
 * https://github.com/jdeboer/ganalytics
