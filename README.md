@@ -1,7 +1,7 @@
 # Data Resources
 Tracking the tools I've found useful
 
-**Basic Data Sciencce**
+**Basic Data Science**
 * http://joshualande.com/database-normalization/
 
 **Javascript Libraries, Resources & Tutorials**
