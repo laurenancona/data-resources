@@ -10,13 +10,14 @@ Tracking the tools I've found useful
 * [Simple Statistics.js](http://www.macwright.org/simple-statistics/)  for JavaScript in Node & the browser
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 
-**Learning R**
+**R Resources, Tutorials, Packages & Reference**
 * http://handsondatascience.com/DataO.pdf
 * https://github.com/startupjing/Tech_Notes/blob/master/R/README.md
 * http://www.computerworld.com/article/2497143/business-intelligence-beginner-s-guide-to-r-introduction.html?null
 * http://swirlstats.com/
 * [Introduction to dplyr](http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
 * [rPostgreSQL](https://code.google.com/p/rpostgresql/)
+* [ggPlot Themes](http://docs.ggplot2.org/dev/vignettes/themes.html)
 
 **Google Analytics**
 * [in R](https://github.com/jdeboer/ganalytics)
