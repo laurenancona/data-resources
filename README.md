@@ -24,3 +24,4 @@ Tracking the tools I've found useful
 **Visualization**
 * [d3.js Tutorials by Mike Bostock](https://github.com/mbostock/d3/wiki/Tutorials)
 * [Periodic Table of Data Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html)
+* [DashingD3js](https://www.dashingd3js.com/table-of-contents)
