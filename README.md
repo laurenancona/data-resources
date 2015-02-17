@@ -4,7 +4,8 @@ Tracking the tools I've found useful
 **Basic Data Sciencce**
 * http://joshualande.com/database-normalization/
 
-**Javascript Libraries & Tutorials**
+**Javascript Libraries, Resources & Tutorials**
+* [CDNjs](https://cdnjs.com/)  CDN Repo for hosted, current versions of most main-stream/mature JS libraries
 * [Mustache.js](http://mustache.github.io/mustache.5.html) Logic-less templating library
 * [Simple Statistics.js](http://www.macwright.org/simple-statistics/)  for JavaScript in Node & the browser
 * [Eloquent Javascript](http://eloquentjavascript.net/)
