@@ -20,3 +20,6 @@ Tracking the tools I've found useful
 
 **Google Analytics in R**
 * https://github.com/jdeboer/ganalytics
+
+**Visualization**
+* [d3.js Tutorials by Mike Bostock](https://github.com/mbostock/d3/wiki/Tutorials)
