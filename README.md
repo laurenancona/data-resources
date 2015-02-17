@@ -18,8 +18,9 @@ Tracking the tools I've found useful
 * [Introduction to dplyr](http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
 * [rPostgreSQL](https://code.google.com/p/rpostgresql/)
 
-**Google Analytics in R**
-* https://github.com/jdeboer/ganalytics
+**Google Analytics**
+* [in R](https://github.com/jdeboer/ganalytics)
+
 
 **Visualization**
 * [d3.js Tutorials by Mike Bostock](https://github.com/mbostock/d3/wiki/Tutorials)
