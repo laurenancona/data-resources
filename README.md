@@ -3,6 +3,9 @@ Tracking the tools I've found useful
 
 **Basic Data Science**
 * http://joshualande.com/database-normalization/
+* 
+**Data Collection & Extraction**
+* [Tabula](http://tabula.technology/)
 
 **Javascript Libraries, Resources & Tutorials**
 * [CDNjs](https://cdnjs.com/)  CDN Repo for hosted, current versions of most main-stream/mature JS libraries
@@ -21,7 +24,6 @@ Tracking the tools I've found useful
 
 **Google Analytics**
 * [in R](https://github.com/jdeboer/ganalytics)
-
 
 **Visualization**
 * [d3.js Tutorials by Mike Bostock](https://github.com/mbostock/d3/wiki/Tutorials)
