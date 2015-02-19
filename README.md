@@ -3,7 +3,7 @@ Tracking the tools I've found useful
 
 **Basic Data Science**
 * http://joshualande.com/database-normalization/
-* 
+
 **Data Collection & Extraction**
 * [Tabula](http://tabula.technology/)
 
