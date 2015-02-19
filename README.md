@@ -21,6 +21,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 * [Introduction to dplyr](http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
 * [rPostgreSQL](https://code.google.com/p/rpostgresql/)
 * [ggPlot Themes](http://docs.ggplot2.org/dev/vignettes/themes.html)
+* [TryR](http://tryr.codeschool.com/) Codeschool course
 
 **Google Analytics**
 * [in R](https://github.com/jdeboer/ganalytics)
