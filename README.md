@@ -1,5 +1,5 @@
 # Data Resources
-Tracking the tools I've found useful
+Tracking the tools I've found useful. Not intended to be exhaustive; instead this is the short list of items that I've actively used or found useful.
 
 **Basic Data Science**
 * http://joshualande.com/database-normalization/
