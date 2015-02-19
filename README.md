@@ -5,7 +5,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 * http://joshualande.com/database-normalization/
 
 **Data Collection & Extraction**
-* [Tabula](http://tabula.technology/)
+* [Tabula](http://tabula.technology/) Application for liberating PDF-bound data
 
 **Javascript Libraries, Resources & Tutorials**
 * [CDNjs](https://cdnjs.com/)  CDN Repo for hosted, current versions of most main-stream/mature JS libraries
