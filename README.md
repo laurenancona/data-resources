@@ -8,6 +8,8 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 * [Tabula](http://tabula.technology/) Application for liberating PDF-bound data
 
 **Javascript Libraries, Resources & Tutorials**
+* [Crossfilter.js]() Crossfilter is like a client-side OLAP server, quickly grouping, filtering, and aggregating tens or hundreds of thousands of rows of raw data very, very quickly. Crossfire is intended to be combined with a graphing or charting library like D3, Highcharts, or the Google Visualization API; it doesn’t have a UI of its own.
+- [Crossfilter Tutorial](http://blog.rusty.io/2012/09/17/crossfilter-tutorial/)
 * [CDNjs](https://cdnjs.com/)  CDN Repo for hosted, current versions of most main-stream/mature JS libraries
 * [Mustache.js](http://mustache.github.io/mustache.5.html) Logic-less templating library
 * [Simple Statistics.js](http://www.macwright.org/simple-statistics/)  for JavaScript in Node & the browser
