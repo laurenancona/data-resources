@@ -3,6 +3,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 
 **Basic Data Science**
 * http://joshualande.com/database-normalization/
+* http://www.datasciencetoolkit.org/developerdocs
 
 **Data Collection & Extraction**
 * [Tabula](http://tabula.technology/) Application for liberating PDF-bound data
