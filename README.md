@@ -14,6 +14,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 * [CDNjs](https://cdnjs.com/)  CDN Repo for hosted, current versions of most main-stream/mature JS libraries
 * [Mustache.js](http://mustache.github.io/mustache.5.html) Logic-less templating library
 * [Simple Statistics.js](http://www.macwright.org/simple-statistics/)  for JavaScript in Node & the browser
+* [Textures.js](http://riccardoscalco.github.io/textures/)  SVG patterns for Data Visualization
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 
 **R Resources, Tutorials, Packages & Reference**
