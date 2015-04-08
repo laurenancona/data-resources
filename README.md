@@ -32,6 +32,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 * [in R](https://github.com/jdeboer/ganalytics)
 
 **Visualization**
+* [How to use bl.ocks.org](http://bost.ocks.org/mike/block/) by Mike Bostock | Live previews of Github Gists
 * [d3.js Tutorials by Mike Bostock](https://github.com/mbostock/d3/wiki/Tutorials)
 * [Periodic Table of Data Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html)
 * [DashingD3js](https://www.dashingd3js.com/table-of-contents)
