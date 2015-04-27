@@ -4,7 +4,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 **Basic Data Science**
 * http://joshualande.com/database-normalization/
 * http://www.datasciencetoolkit.org/developerdocs
-* http://learnjsdata.com/index.html
+* [Learn JS Data](http://learnjsdata.com/index.html)
 
 **Data Collection & Extraction**
 * [Tabula](http://tabula.technology/) Application for liberating PDF-bound data
@@ -37,3 +37,5 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 * [Periodic Table of Data Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html)
 * [DashingD3js](https://www.dashingd3js.com/table-of-contents)
 * [dc.js Tutorial](http://www.codeproject.com/Articles/693841/Making-Dashboards-with-Dc-js-Part-1-Using-Crossfil) dc.js makes interactive dashboards. Combines the slicy-dicey of Crossfilter.js with the beauty of d3.js charts
+* ***Color***
+* * [CSS Color Chart](http://ainsleywagoner.com/color-chart/) Named colors with swatches
