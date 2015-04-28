@@ -16,7 +16,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 * [Mustache.js](http://mustache.github.io/mustache.5.html) Logic-less templating library
 * [Simple Statistics.js](http://www.macwright.org/simple-statistics/)  for JavaScript in Node & the browser
 * [Textures.js](http://riccardoscalco.github.io/textures/)  SVG patterns for Data Visualization
-* [Recline.js](http://okfnlabs.org/recline/)A simple but powerful library for building data applications in pure Javascript and HTML.
+* [Recline.js](http://okfnlabs.org/recline/) A simple but powerful library for building data applications in pure Javascript and HTML.
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 
 **R Resources, Tutorials, Packages & Reference**
