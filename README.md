@@ -59,6 +59,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 |[Sparklines](https://github.com/mariusGundersen/sparkline) | Small Javascript library for creating sparkline graphs |
 |***Color*** | |
 |[CSS Color Chart](http://ainsleywagoner.com/color-chart/) | Named colors with swatches |
+| [Piety](http://benpickles.github.io/peity/) | a simple jQuery plugin that converts an element's content into a simple <svg> mini pie, donut, line or bar chart and is compatible with any browser that supports <svg>: Chrome, Firefox, IE9+, Opera, Safari. |
 
 **Geospatial Data Analysis, Processing & Representation**
 ---------------------------------------------
