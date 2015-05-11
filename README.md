@@ -59,3 +59,9 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 |[Sparklines](https://github.com/mariusGundersen/sparkline) | Small Javascript library for creating sparkline graphs |
 |***Color*** | |
 |[CSS Color Chart](http://ainsleywagoner.com/color-chart/) | Named colors with swatches |
+
+**Geospatial Data Analysis, Processing & Representation**
+---------------------------------------------
+| Resource | Description |
+|:-------|:-------|
+| [Mapshaper](http://mapshaper.org/) | Browser-based geographic features simplification tool for Shapefile .shp, GeoJSON or TopoJSON files. |
