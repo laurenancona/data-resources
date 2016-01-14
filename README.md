@@ -69,3 +69,4 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 | [Mapshaper](http://mapshaper.org/) | Browser-based geographic features simplification tool for Shapefile .shp, GeoJSON or TopoJSON files. |
 | [Dropchop.io](http://dropchop.io/) | Browser-based spatial operations (uses [Turf.js](https://turfjs.org)) |
 | [Turfjs.party](http://turfjs.party/) | Browser-based spatial operations (also uses [Turf.js](https://turfjs.org)) |
+| [Configurable Map Viewer](http://cmv.io/) | Community supported open source mapping framework. Works with the Esri JavaScript API, ArcGIS Server, ArcGIS Online and more. |
