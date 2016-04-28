@@ -52,14 +52,24 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 | Resource | Description |
 |:------|:------|
 |[How to use bl.ocks.org](http://bost.ocks.org/mike/block/) | by Mike Bostock; Live previews of Github Gists
-|[d3.js Tutorials by Mike Bostock](https://github.com/mbostock/d3/wiki/Tutorials)
 |[Periodic Table of Data Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html) ||
 |[DashingD3js](https://www.dashingd3js.com/table-of-contents) ||
 |[dc.js Tutorial](http://www.codeproject.com/Articles/693841/Making-Dashboards-with-Dc-js-Part-1-Using-Crossfil) | dc.js makes interactive dashboards. Combines the slicy-dicey of Crossfilter.js with the beauty of d3.js charts |
-|[Sparklines](https://github.com/mariusGundersen/sparkline) | Small Javascript library for creating sparkline graphs |
+
 |***Color*** | |
 |[CSS Color Chart](http://ainsleywagoner.com/color-chart/) | Named colors with swatches |
-| [Piety](http://benpickles.github.io/peity/) | a simple jQuery plugin that converts an element's content into a simple <svg> mini pie, donut, line or bar chart and is compatible with any browser that supports <svg>: Chrome, Firefox, IE9+, Opera, Safari. |
+|[Piety](http://benpickles.github.io/peity/) | a simple jQuery plugin that converts an element's content into a simple <svg> mini pie, donut, line or bar chart and is compatible with any browser that supports <svg>: Chrome, Firefox, IE9+, Opera, Safari. |
+
+**Charting Libraries (Open Source)**
+--------------------------------------------
+| Resource | Language | Depends | Comments |
+|:------|:------|:-----|:------|
+|[Tau Charts](https://www.taucharts.com/) | JavaScript | [d3.js](http://d3js.org/) | |
+|[Sparklines](https://github.com/mariusGundersen/sparkline) | JavaScript |  | Small Javascript library for creating sparkline graphs |
+|[Piety](http://benpickles.github.io/peity/) | JavaScript | jQuery | Converts element's content into `<svg>` |
+|[Plotly](https://github.com/plotly/plotly.js) | JavaScript | [d3.js](http://d3js.org/), [stack.gl](http://stack.gl/) | |
+|[uvCharts](https://github.com/imaginea/uvCharts) | JavaScript | [d3.js](http://d3js.org/) | Developer-focused, rapid build + embed |
+_more soon_
 
 **Geospatial Data Analysis, Processing & Representation**
 ---------------------------------------------
