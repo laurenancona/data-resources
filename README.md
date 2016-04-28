@@ -64,6 +64,8 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 --------------------------------------------
 | Resource | Language | Depends | Comments |
 |:------|:------|:-----|:------|
+|[d3](http://d3.js.org) | JavaScript | | OG |
+|[Flot](http://www.flotcharts.org/) | JavaScript | jQuery | Good for streaming data |
 |[Tau Charts](https://www.taucharts.com/) | JavaScript | [d3.js](http://d3js.org/) | |
 |[Sparklines](https://github.com/mariusGundersen/sparkline) | JavaScript |  | Small Javascript library for creating sparkline graphs |
 |[Piety](http://benpickles.github.io/peity/) | JavaScript | jQuery | Converts element's content into `<svg>` |
