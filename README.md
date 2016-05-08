@@ -57,8 +57,8 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 |[dc.js Tutorial](http://www.codeproject.com/Articles/693841/Making-Dashboards-with-Dc-js-Part-1-Using-Crossfil) | dc.js makes interactive dashboards. Combines the slicy-dicey of Crossfilter.js with the beauty of d3.js charts |
 
 |***Color*** | |
-|[CSS Color Chart](http://ainsleywagoner.com/color-chart/) | Named colors with swatches |
-|[Piety](http://benpickles.github.io/peity/) | a simple jQuery plugin that converts an element's content into a simple <svg> mini pie, donut, line or bar chart and is compatible with any browser that supports <svg>: Chrome, Firefox, IE9+, Opera, Safari. |
+|[CSS Named Color Chart](http://ainsleywagoner.com/color-chart/) | Named colors with swatches |
+|[](http://benpickles.github.io/peity/) | a simple jQuery plugin that converts an element's content into a simple <svg> mini pie, donut, line or bar chart and is compatible with any browser that supports <svg>: Chrome, Firefox, IE9+, Opera, Safari. |
 
 **Charting Libraries (Open Source)**
 --------------------------------------------
@@ -71,6 +71,9 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 |[Piety](http://benpickles.github.io/peity/) | JavaScript | jQuery | Converts element's content into `<svg>` |
 |[Plotly](https://github.com/plotly/plotly.js) | JavaScript | [d3.js](http://d3js.org/), [stack.gl](http://stack.gl/) | |
 |[uvCharts](https://github.com/imaginea/uvCharts) | JavaScript | [d3.js](http://d3js.org/) | Developer-focused, rapid build + embed |
+|[Chartist](https://gionkunz.github.io/chartist-js/) | JavaScript |  | Responsive, accessibility plugin |
+
+
 _more soon_
 
 **Geospatial Data Analysis, Processing & Representation**
