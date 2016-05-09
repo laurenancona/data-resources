@@ -55,10 +55,11 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 |[Periodic Table of Data Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html) ||
 |[DashingD3js](https://www.dashingd3js.com/table-of-contents) ||
 |[dc.js Tutorial](http://www.codeproject.com/Articles/693841/Making-Dashboards-with-Dc-js-Part-1-Using-Crossfil) | dc.js makes interactive dashboards. Combines the slicy-dicey of Crossfilter.js with the beauty of d3.js charts |
-
 |***Color*** | |
 |[CSS Named Color Chart](http://ainsleywagoner.com/color-chart/) | Named colors with swatches |
-|[](http://benpickles.github.io/peity/) | a simple jQuery plugin that converts an element's content into a simple <svg> mini pie, donut, line or bar chart and is compatible with any browser that supports <svg>: Chrome, Firefox, IE9+, Opera, Safari. |
+|[Colorpicker for Data Visualization](http://tristen.ca/hcl-picker/#/hlc/6/1.05/CAF270/7B6084) | color conversion via chroma.js |
+|[I Want Hue](http://tools.medialab.sciences-po.fr/iwanthue/)| Colors for data scientists |
+
 
 **Charting Libraries (Open Source)**
 --------------------------------------------
