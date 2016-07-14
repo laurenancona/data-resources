@@ -86,3 +86,4 @@ _more soon_
 | [Dropchop.io](http://dropchop.io/) | Browser-based spatial operations (uses [Turf.js](https://turfjs.org)) |
 | [Turfjs.party](http://turfjs.party/) | Browser-based spatial operations (also uses [Turf.js](https://turfjs.org)) |
 | [Configurable Map Viewer](http://cmv.io/) | Community supported open source mapping framework. Works with the Esri JavaScript API, ArcGIS Server, ArcGIS Online and more. |
+| [QGIS Tutorials](http://www.qgistutorials.com/en/docs/introduction.html) | Excellent instructionals for using the open-source geospatial analysis tool. |
