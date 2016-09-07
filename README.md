@@ -26,7 +26,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 | [Simple Statistics.js](http://www.macwright.org/simple-statistics/) | for JavaScript in Node & the browser|
 | [Textures.js](http://riccardoscalco.github.io/textures/) | SVG patterns for Data Visualization|
 | [Recline.js](http://okfnlabs.org/recline/)| A simple but powerful library for building data applications in pure Javascript| and HTML.
-| [Eloquent Javascript](http://eloquentjavascript.net/)||
+| [Eloquent Javascript](http://eloquentjavascript.net/)| Now also a book |
 
 **R Resources, Tutorials, Packages & Reference**
 ----------------------------------------------------
@@ -40,6 +40,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 | [ggPlot Themes](http://docs.ggplot2.org/dev/vignettes/themes.html) | |
 | [TryR](http://tryr.codeschool.com/) | Codeschool course |
 | [R Language & Concepts](https://github.com/startupjing/Tech_Notes/blob/master/R/README.md) | |
+| [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/) | A short Intro to R course |
 
 **Google Analytics**
 --------------------------------------------
