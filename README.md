@@ -1,6 +1,12 @@
 # Data Resources
 Tracking the tools I've found useful. Not intended to be exhaustive; instead this is the short list of items that I've actively used or found useful.
 
+**Version Control**
+---------------------------------------------------
+| Resource | Description |
+|:----|:----|
+| [Oh Shit, Git!](http://ohshitgit.com/) | Useful for those already using git for help fixing mistakes. | 
+
 **Basic Data Science**
 ---------------------------------------------------
 | Resource | Description |
