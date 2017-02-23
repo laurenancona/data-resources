@@ -11,7 +11,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 ---------------------------------------------------
 | Resource | Description |
 |:----|:----|
-| [Database Normalization](http://joshualande.com/database-normalization/) |
+| [Database Normalization](http://joshualande.com/database-normalization) |
 | [Data Science Tool Kit](http://www.datasciencetoolkit.org/developerdocs) |
 |[Learn JS Data](http://learnjsdata.com/index.html) |
 
