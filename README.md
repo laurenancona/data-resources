@@ -13,7 +13,7 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 |:----|:----|
 | [Database Normalization](http://joshualande.com/database-normalization) |
 | [Data Science Tool Kit](http://www.datasciencetoolkit.org/developerdocs) |
-|[Learn JS Data](http://learnjsdata.com/index.html) |
+| [Learn JS Data](http://learnjsdata.com/index.html) |
 
 **Data Collection & Extraction**
 ---------------------------------------------------
@@ -58,28 +58,29 @@ Tracking the tools I've found useful. Not intended to be exhaustive; instead thi
 --------------------------------------------
 | Resource | Description |
 |:------|:------|
-|[How to use bl.ocks.org](http://bost.ocks.org/mike/block/) | by Mike Bostock; Live previews of Github Gists
-|[Periodic Table of Data Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html) ||
-|[DashingD3js](https://www.dashingd3js.com/table-of-contents) ||
-|[dc.js Tutorial](http://www.codeproject.com/Articles/693841/Making-Dashboards-with-Dc-js-Part-1-Using-Crossfil) | dc.js makes interactive dashboards. Combines the slicy-dicey of Crossfilter.js with the beauty of d3.js charts |
+| [How to use bl.ocks.org](http://bost.ocks.org/mike/block/) | by Mike Bostock; Live previews of Github Gists
+| [Periodic Table of Data Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html) ||
+| [DashingD3js](https://www.dashingd3js.com/table-of-contents) ||
+| [dc.js Tutorial](http://www.codeproject.com/Articles/693841/Making-Dashboards-with-Dc-js-Part-1-Using-Crossfil) | dc.js makes interactive dashboards. Combines the slicy-dicey of Crossfilter.js with the beauty of d3.js charts |
 |***Color*** | |
-|[CSS Named Color Chart](http://ainsleywagoner.com/color-chart/) | Named colors with swatches |
-|[Colorpicker for Data Visualization](http://tristen.ca/hcl-picker/#/hlc/6/1.05/CAF270/7B6084) | color conversion via chroma.js |
-|[I Want Hue](http://tools.medialab.sciences-po.fr/iwanthue/)| Colors for data scientists |
+| [CSS Named Color Chart](http://ainsleywagoner.com/color-chart/) | Named colors with swatches |
+| [Colorpicker for Data Visualization](http://tristen.ca/hcl-picker/#/hlc/6/1.05/CAF270/7B6084) | color conversion via chroma.js |
+| [I Want Hue](http://tools.medialab.sciences-po.fr/iwanthue/)| Colors for data scientists |
 
 
 **Charting Libraries (Open Source)**
 --------------------------------------------
 | Resource | Language | Depends | Comments |
 |:------|:------|:-----|:------|
-|[d3](http://d3.js.org) | JavaScript | | OG |
-|[Flot](http://www.flotcharts.org/) | JavaScript | jQuery | Good for streaming data |
-|[Tau Charts](https://www.taucharts.com/) | JavaScript | [d3.js](http://d3js.org/) | |
-|[Sparklines](https://github.com/mariusGundersen/sparkline) | JavaScript |  | Small Javascript library for creating sparkline graphs |
-|[Piety](http://benpickles.github.io/peity/) | JavaScript | jQuery | Converts element's content into `<svg>` |
-|[Plotly](https://github.com/plotly/plotly.js) | JavaScript | [d3.js](http://d3js.org/), [stack.gl](http://stack.gl/) | |
-|[uvCharts](https://github.com/imaginea/uvCharts) | JavaScript | [d3.js](http://d3js.org/) | Developer-focused, rapid build + embed |
-|[Chartist](https://gionkunz.github.io/chartist-js/) | JavaScript |  | Responsive, accessibility plugin |
+| [d3](http://d3.js.org) | JavaScript | | OG |
+| [Flot](http://www.flotcharts.org/) | JavaScript | jQuery | Good for streaming data |
+| [Tau Charts](https://www.taucharts.com/) | JavaScript | [d3.js](http://d3js.org/) | |
+| [Sparklines](https://github.com/mariusGundersen/sparkline) | JavaScript |  | Small Javascript library for creating sparkline graphs |
+| [Piety](http://benpickles.github.io/peity/) | JavaScript | jQuery | Converts element's content into `<svg>` |
+| [Plotly](https://github.com/plotly/plotly.js) | JavaScript | [d3.js](http://d3js.org/), [stack.gl](http://stack.gl/) | |
+| [uvCharts](https://github.com/imaginea/uvCharts) | JavaScript | [d3.js](http://d3js.org/) | Developer-focused, rapid build + embed |
+| [Chartist](https://gionkunz.github.io/chartist-js/) | JavaScript |  | Responsive, accessibility plugin |
+| [Chart.js](http://www.chartjs.org/) | JavaScript |  | Built-in chart filtering |
 
 
 _more soon_
